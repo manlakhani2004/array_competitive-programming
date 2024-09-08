@@ -16,6 +16,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1603-running-sum-of-1d-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0027-remove-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0217-contains-duplicate) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1603-running-sum-of-1d-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0035-search-insert-position) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3226-minimum-number-game) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->

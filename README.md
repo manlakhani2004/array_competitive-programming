@@ -84,4 +84,8 @@
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

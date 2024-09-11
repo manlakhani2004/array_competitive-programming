@@ -16,6 +16,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1603-running-sum-of-1d-array) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3226-minimum-number-game](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3226-minimum-number-game) |
@@ -49,6 +50,7 @@
 ## String
 |  |
 | ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search

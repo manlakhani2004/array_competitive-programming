@@ -11,6 +11,7 @@
 | [0137-single-number-ii](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0283-move-zeroes) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -70,6 +71,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer

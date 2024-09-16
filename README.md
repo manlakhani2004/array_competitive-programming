@@ -16,6 +16,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -104,5 +105,6 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0009-palindrome-number) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->

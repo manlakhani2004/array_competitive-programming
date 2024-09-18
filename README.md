@@ -27,6 +27,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2639-separate-the-digits-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -100,6 +101,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2639-separate-the-digits-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3226-minimum-number-game) |
 ## Matrix
 |  |

@@ -24,6 +24,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1603-running-sum-of-1d-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1848-sum-of-unique-elements](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1848-sum-of-unique-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -41,6 +42,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1848-sum-of-unique-elements) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Sorting
 |  |
@@ -61,6 +63,7 @@
 | [0169-majority-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1848-sum-of-unique-elements](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1848-sum-of-unique-elements) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum

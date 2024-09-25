@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findDuplicates(vector<int>& nums) {
-        map<int,int> hash;
+        unordered_map<int,int> hash;
         vector<int> ans;
         for(int i=0; i<nums.size(); i++){
             hash[nums[i]]++;

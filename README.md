@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1293-three-consecutive-odds) |
@@ -40,6 +41,7 @@
 | [0169-majority-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1848-sum-of-unique-elements) |

@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0485-max-consecutive-ones) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1293-three-consecutive-odds) |

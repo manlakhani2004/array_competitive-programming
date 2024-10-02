@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0035-search-insert-position) |
@@ -41,6 +42,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0268-missing-number) |

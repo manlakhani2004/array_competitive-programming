@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0137-single-number-ii) |
@@ -114,6 +115,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
@@ -136,4 +138,8 @@
 | [0268-missing-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

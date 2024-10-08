@@ -36,6 +36,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2639-separate-the-digits-in-an-array) |
@@ -114,6 +115,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2639-separate-the-digits-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3226-minimum-number-game) |
 ## Matrix

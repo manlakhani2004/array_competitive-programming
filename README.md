@@ -24,6 +24,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0560-subarray-sum-equals-k) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1019-squares-of-a-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1019-squares-of-a-sorted-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |

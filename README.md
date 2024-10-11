@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0075-sort-colors) |
@@ -140,12 +141,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0268-missing-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |

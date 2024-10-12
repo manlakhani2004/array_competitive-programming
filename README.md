@@ -44,6 +44,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2639-separate-the-digits-in-an-array) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3226-minimum-number-game](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3226-minimum-number-game) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -62,6 +63,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1848-sum-of-unique-elements) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Sorting
 |  |
@@ -111,6 +113,7 @@
 | [0136-single-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0268-missing-number) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |

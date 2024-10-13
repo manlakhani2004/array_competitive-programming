@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -138,6 +139,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2639-separate-the-digits-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2639-separate-the-digits-in-an-array) |
 | [3226-minimum-number-game](https://github.com/manlakhani2004/array_competitive-programming/tree/master/3226-minimum-number-game) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0073-set-matrix-zeroes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math

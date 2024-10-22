@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0035-search-insert-position) |
@@ -72,6 +73,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0217-contains-duplicate) |
@@ -123,6 +125,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0075-sort-colors) |

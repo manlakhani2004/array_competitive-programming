@@ -106,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0125-valid-palindrome) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -132,6 +133,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1019-squares-of-a-sorted-array) |

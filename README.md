@@ -62,6 +62,7 @@
 | [0169-majority-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -80,6 +81,7 @@
 | [0169-majority-element](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/manlakhani2004/array_competitive-programming/tree/master/0242-valid-anagram) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/manlakhani2004/array_competitive-programming/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/manlakhani2004/array_competitive-programming/tree/master/2231-find-first-palindromic-string-in-the-array) |
